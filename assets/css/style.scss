@@ -1,0 +1,17 @@
+$theme-colors:(
+    "altairDark" : #1a1a1a,
+    "altairRose" : #eb5f62,
+    "altairSable" : #ffcb94
+);
+
+body{
+    background-color: #1a1a1a!important;
+}
+
+td a{
+    color: white!important;
+    text-decoration: none;
+}
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
